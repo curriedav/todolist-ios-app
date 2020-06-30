@@ -1,0 +1,18 @@
+PODS:
+  - mParticle-Apple-SDK (7.16.1):
+    - mParticle-Apple-SDK/mParticle (= 7.16.1)
+  - mParticle-Apple-SDK/mParticle (7.16.1)
+
+DEPENDENCIES:
+  - mParticle-Apple-SDK (~> 7.8)
+
+SPEC REPOS:
+  trunk:
+    - mParticle-Apple-SDK
+
+SPEC CHECKSUMS:
+  mParticle-Apple-SDK: 30dc6d2b28156e38c0665ab6a9a489e291d6bdd7
+
+PODFILE CHECKSUM: efec617355e582c41cce717db3375f31f227eb07
+
+COCOAPODS: 1.9.3
